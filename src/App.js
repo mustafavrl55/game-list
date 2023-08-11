@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import "./App.scss";
 import Header from "./components/Header";
 import { Route, Routes } from "react-router-dom";
